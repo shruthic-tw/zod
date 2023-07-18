@@ -1,4 +1,4 @@
-# Contributing
+# Con
 
 When it comes to open source, there are different ways you can contribute, all
 of which are valuable. Here's few guidelines that should help you as you prepare
